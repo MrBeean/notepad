@@ -3,6 +3,6 @@
 Link*
 Memo*
 Task*
-test.rb
+/lib/test.rb
 *.sqlite
 *.db
